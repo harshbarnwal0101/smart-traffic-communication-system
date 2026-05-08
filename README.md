@@ -109,6 +109,14 @@ See [WALKTHROUGH.md](traffic_system/WALKTHROUGH.md) for detailed documentation i
 
 ---
 
+## 👥 Authors
+
+- **Harsh Kumar** (23095039)
+- **Nayanipatruni Sumanth** (23095062)
+- **Harshit Verma** (23095039)
+
+---
+
 ## 📝 License
 
 MIT License
