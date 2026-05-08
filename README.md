@@ -8,7 +8,7 @@ A complete **VANET (Vehicular Ad Hoc Network)** simulation system built in Pytho
 
 - **Harsh Kumar** (23095039)
 - **Nayanipatruni Sumanth** (23095062)
-- **Harshit Verma** (23095039)
+- **Harshit Verma** (23095041)
 
 
 ![Network Topology](output/01_network_topology.png)
