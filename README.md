@@ -2,6 +2,15 @@
 
 A complete **VANET (Vehicular Ad Hoc Network)** simulation system built in Python, implementing a multi-layer networking architecture for intelligent traffic management.
 
+---
+
+## 👥 Authors
+
+- **Harsh Kumar** (23095039)
+- **Nayanipatruni Sumanth** (23095062)
+- **Harshit Verma** (23095039)
+
+
 ![Network Topology](output/01_network_topology.png)
 
 ---
@@ -107,15 +116,6 @@ See [WALKTHROUGH.md](traffic_system/WALKTHROUGH.md) for detailed documentation i
 - **networkx** — Network topology and routing
 - **numpy** — Numerical computation
 
----
-
-## 👥 Authors
-
-- **Harsh Kumar** (23095039)
-- **Nayanipatruni Sumanth** (23095062)
-- **Harshit Verma** (23095039)
-
----
 
 ## 📝 License
 
